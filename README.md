@@ -47,7 +47,10 @@ Mapa conceptual
 
 # 3) Explicacion de procedimiento
 
-Text
+1) Mida el voltaje y la corriente en el resistor R5.
+2) Desconecte el resistor R5 y mida el voltaje en el circuito abierto.
+3) Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente.
+4) Implemente el circuito equivalente de Thévenin.
 
 ![](https://github.com/spcueva1/INFORME-LABORATORIO-5/blob/dfe1c5e500878581c7cbd3a39059fa1713306556/INF%205%20MT/5.5.1.png)
 
