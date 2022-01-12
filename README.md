@@ -46,71 +46,39 @@ Mapa conceptual
 
 # 3) Explicacion de procedimiento
 
-Primero plasmamos en el simulador el ejercicio propueto en la guia. De esta maner analizamos lo pedido y comenzamos a resolver.
+Text
 
-Para las fuetes de voltaje hacemos un circuto cerrado es decir eliminamos esa fuente.
-
-Para esto debemos remplazar primero la de 20 vol y despues remplazamos la segunda fuente de 12 vol y asi al final de los resultados realizamos una suma algebraica para obtener la intensidad que sircula por esa parte del circuito.
-
-Para calcular las resistencias equivalentes dependiendo el caso utilizamos ley de ohm, circuitos serie paralelo y mas.
-
-![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/6272e6211d4eee6435ceedde3cd225115f612a47/Info%204/Imagen2.44.png)
+![](IM 4)
 
 
  Cálculos:
  
-Usando la fuente de 20v, es decir remplazando por un circuito cerrado a mi funete de voltaje de 12v.
-
-Req1=1/(1/0,82+1/2,2)=0,597kΩ
-
-RT=Req2=1+0,597=1,597Ω
-
-It=20/1,597=12,523mA
-
-Divisor de corriente.
-
-Ix=(2,2/(2,2+0,82))*12,523= 9,12mA
-
-VA=9,122*0,82=7,48 V
-
-Usando la fuente de 12v, es decir remplazando por un circuito cerrado a mi funete de voltaje de 20v.
-
-Req1=1/(1/1k+1/2,2k)=687,5Ω
-
-Req2=820+687,5=1507,5Ω
-
-Ieq2=12/1507,5=7,960*10^(-3) A
-
-VA=820*7,96*10^(-3)=6,5272 V
-
-Req3=1/(1/1507,5+1/470)=358,29Ω
-
-It=12/358,29=0,03349A
-
-Divisor de corriente.
-
-Ix=(47/(1507,5+47))*0,03349= 7,96mA
 
 
+//  TEX CALCULO
 
-
-![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/475898bd59676e59ec1f1bd9aa3a773a2fe28b23/info%204.1/inf%204%20calculo.png)
+![](IMA CALCU)
 
 
 Simulacion en Tinkercard:
 
+Imagen circuito
+
 Imagen 1 simulador
 
-![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/5bfd649ec4a609af45a37ce7dc1c57f6e1faa201/info%204.1/Simula%20ima%201.jpg)
+![]()
 
 Imagen 2 simulador
 
-![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/5bfd649ec4a609af45a37ce7dc1c57f6e1faa201/info%204.1/Simula%20ima%202.jpg)
+![]()
 
 Imagen 3 simulador
 
-![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/5bfd649ec4a609af45a37ce7dc1c57f6e1faa201/info%204.1/Simula%20ima%203.jpg)
+![]()
 
+Imagen 4 simulador
+
+![]()
 
 # 4) Respuesta a interrogantes y cálculo de error.
 
