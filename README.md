@@ -32,23 +32,24 @@ Cualquier componente conectado entre estas dos terminales “ve” efectivamente
 
 Aunque un circuito equivalente de Thevenin no es el mismo que su circuito original, actúa igual en función del voltaje y de la corriente de salida.
 
-![](MT 1)
+![](https://github.com/spcueva1/INFORME-LABORATORIO-5/blob/dfe1c5e500878581c7cbd3a39059fa1713306556/INF%205%20MT/MT%201.png)
 
 En seguida se coloca el equivalente de Thevenin de dicho circuito en una caja idéntica con, de nuevo, solamente las terminales de salida expuestas. Se conectan resistores de carga idénticos entre las terminales de salida de cada caja. A continuación se conecta un voltímetro y un amperímetro para medir el voltaje y la corriente con cada una de las cargas como indica la figura. Los valores medidos serán idénticos (omitiendo las variaciones de tolerancia), y no se podrá determinar cuál caja contiene el circuito original y cuál
 contiene el equivalente de Thevenin. Es decir, en función de las observaciones basadas en cualesquiera mediciones eléctricas, ambos circuitos parecen ser el mismo circuito. Esta condición en ocasiones se conoce como equivalencia terminal porque ambos circuitos lucen igual desde el “punto de vista” de las dos terminales de salida.
 
 Para encontrar el equivalente de Thevenin de cualquier circuito, se determina el voltaje equivalente, VTH, y la resistencia equivalente, RTH, vistos desde las terminales de salida. 
 
-![](MT 2)
+![](https://github.com/spcueva1/INFORME-LABORATORIO-5/blob/dfe1c5e500878581c7cbd3a39059fa1713306556/INF%205%20MT/IM%202.png)
 
 Mapa conceptual
 
+![](https://github.com/spcueva1/INFORME-LABORATORIO-5/blob/dfe1c5e500878581c7cbd3a39059fa1713306556/INF%205%20MT/mapa.jpg)
 
 # 3) Explicacion de procedimiento
 
 Text
 
-![](IM 4)
+![](https://github.com/spcueva1/INFORME-LABORATORIO-5/blob/dfe1c5e500878581c7cbd3a39059fa1713306556/INF%205%20MT/5.5.1.png)
 
 
  Cálculos:
@@ -64,21 +65,23 @@ Simulacion en Tinkercard:
 
 Imagen circuito
 
+![](https://github.com/spcueva1/INFORME-LABORATORIO-5/blob/dfe1c5e500878581c7cbd3a39059fa1713306556/INF%205%20MT/5.5.1.png)
+
 Imagen 1 simulador
 
-![]()
+![](https://github.com/spcueva1/INFORME-LABORATORIO-5/blob/dfe1c5e500878581c7cbd3a39059fa1713306556/INF%205%20MT/5.5.2.jpg)
 
 Imagen 2 simulador
 
-![]()
+![](https://github.com/spcueva1/INFORME-LABORATORIO-5/blob/dfe1c5e500878581c7cbd3a39059fa1713306556/INF%205%20MT/5.5.3.jpg)
 
 Imagen 3 simulador
 
-![]()
+![](https://github.com/spcueva1/INFORME-LABORATORIO-5/blob/dfe1c5e500878581c7cbd3a39059fa1713306556/INF%205%20MT/5.5.4.jpg)
 
 Imagen 4 simulador
 
-![]()
+![](https://github.com/spcueva1/INFORME-LABORATORIO-5/blob/dfe1c5e500878581c7cbd3a39059fa1713306556/INF%205%20MT/5.5.5.jpg)
 
 # 4) Respuesta a interrogantes y cálculo de error.
 
