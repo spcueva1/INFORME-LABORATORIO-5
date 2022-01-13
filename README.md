@@ -144,7 +144,9 @@ Imagen 4 simulador
 
 Resultados:
 
-![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/9c9ec0d6893ae6cfca7a6437609089c43786a97b/respuesta%20inf%204%20(2).png)
+
+![](https://github.com/spcueva1/INFORME-LABORATORIO-5/blob/6ef6fe958ba03456297ab6df0d068affa9c52b3c/tabla%20inf%205.png)
+
 
 
 Se logro comprabar que los resutlados del  simulador es igual a los valores que encontramos dentro de el analisis de teorema de Thévenin, los cuales fueron evaluados por los conocimientos adquiridos, y por lo tanto obtuvimos lo propuesto en el ejercicio.
@@ -153,7 +155,7 @@ El calculo de error, si se lo evalua, este tendra un resultado de +-0,025% de er
 
 # 5) Video
 
-https://youtu.be/FNPo62Q5EE4
+https://youtu.be/4amk05ophNg
 
 
 # 6) Conclusiones.
