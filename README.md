@@ -106,6 +106,7 @@ https://youtu.be/FNPo62Q5EE4
 
 - Se ha diseñado el ejercicio propuesto por el docente, donde se obtuvieron los datos correctos en la aplicación de la Ley de Thévenin.
 - Mediante el circuito propuesto por el docente logramos eliminar la resistencia numero 5 para evaluar el teorema de Thévenin.
+- El teorema de thevenin ayuda a encontrar el valor de voltaje entre dos puntos eliminando el elemento que se encuentra en ese lugar, por medio de la eliminación de su fuente para tener la resistencia total, también utiliza divisor de voltaje para el valor de este en los extremos A y B.
 
 
 # 7) Bibliografia
