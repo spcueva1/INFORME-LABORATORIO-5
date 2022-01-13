@@ -105,6 +105,7 @@ https://youtu.be/FNPo62Q5EE4
 # 6) Conclusiones.
 
 - Se ha diseñado el ejercicio propuesto por el docente, donde se obtuvieron los datos correctos en la aplicación de la Ley de Thévenin.
+- Mediante el circuito propuesto por el docente logramos eliminar la resistencia numero 5 para evaluar el teorema de Thévenin.
 
 
 # 7) Bibliografia
