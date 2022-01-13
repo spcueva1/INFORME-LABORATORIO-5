@@ -59,7 +59,57 @@ Mapa conceptual
  
 
 
-//  TEX CALCULO
+Req1=1/(1/560+1/4700+1/330)=198,85Ω
+
+Reqt=198,85+100=298,85Ω
+
+-12+560I1+4700(I1-I2)=0
+
+5,26i1-4.7I2=12
+
+-2+0.33I2+4.7(I2-I1)=0
+
+-4.7I1+5.03I2=2
+
+Por medio de una calculadora de sistema de ecuaciones tenemos:
+
+I1=15,97mA
+
+I2=15,32mA
+	
+Vth=15,97mA*(0,33)
+
+Vth=5,06v
+
+Divisor de voltajes:
+
+VR5=1/(1+0,299) (5,06)=3,89v
+
+IR5=3,89/1=3,89mA
+
+
+-12+0.56I1+4.7(I1-I2)=0
+
+5.26I1-4.7I2=12
+
+-2+0.33(I2-I3)+4.7(I1-I2)=0
+
+-4.7I1+5.03I2-0.33I3=2
+
+0.10I3+1I3+0.33(I1-I2)=0
+
+-0.33I2+1.43I3=0
+
+Utilizando calculadora de sistemas de ecuaciones:
+
+I1=17.35mA
+
+I2=16.87mA
+
+I3=3.89mA
+
+V=(3.89)*1=3,89v
+
 
 ![](IMA CALCU)
 
