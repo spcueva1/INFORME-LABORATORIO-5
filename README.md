@@ -93,9 +93,9 @@ Resultados:
 ![](https://github.com/spcueva1/Informe-Laboratorio-4/blob/9c9ec0d6893ae6cfca7a6437609089c43786a97b/respuesta%20inf%204%20(2).png)
 
 
-Se logro comprabar que los resutlados del  simulado es igual a los valores que encontramos dentro de el analisis por superposición, los cuales fueron evaluados por los conocimientos adquiridos, y por lo tanto obtuvimos lo propuesto en el ejercicio.
+Se logro comprabar que los resutlados del  simulador es igual a los valores que encontramos dentro de el analisis de teorema de Thévenin, los cuales fueron evaluados por los conocimientos adquiridos, y por lo tanto obtuvimos lo propuesto en el ejercicio.
 
-El calculo de error, si se lo evalua, este tendra un resultado de +-0,025% de error ya que corresponde a los valores exactos, tanto medidos, simulados y calculados.
+El calculo de error, si se lo evalua, este tendra un resultado de +-0,025% de error ya que corresponde a los valores exactos, tanto medidos, simulados y calculados. Pero los valores negativos en simulador y positivos en calculo podriamos decir q es el sentido de la corriente. 
 
 # 5) Video
 
