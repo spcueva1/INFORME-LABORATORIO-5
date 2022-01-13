@@ -114,8 +114,7 @@ V=(3.89)*1=3,89v
 ![](https://github.com/spcueva1/INFORME-LABORATORIO-5/blob/abe6159a89cc52896a991f1d26faa40ea87e5e8b/cal%20inf%205/cal%201%20inf%205.png)
 
 
-
-![[](https://github.com/spcueva1/INFORME-LABORATORIO-5/blob/abe6159a89cc52896a991f1d26faa40ea87e5e8b/cal%20inf%205/cal%202%20inf%205.png)
+![](https://github.com/spcueva1/INFORME-LABORATORIO-5/blob/422609312eb9ce6bdf8ca1382c03b2c689c56f33/cal%20inf%205/cal%202%20inf%205.png)
 
 
 
